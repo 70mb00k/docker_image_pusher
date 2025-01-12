@@ -15,5 +15,5 @@ supabase/logflare:1.4.0
 supabase/postgres:15.6.1.146
 timberio/vector:0.28.1-alpine
 supabase/supavisor:1.1.56
-
+postgres:16.6
 
