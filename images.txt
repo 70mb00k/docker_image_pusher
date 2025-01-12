@@ -1,12 +1,8 @@
 nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
 n8nio/n8n
 postgres/postgres:16.6
-nocobase/nocobase:latest
-elestio/flowiseai:latest
+nocobase/nocobase
+elestio/flowiseai
 supabase/studio:20241202-71e5240
 kong:2.8.1
 supabase/gotrue:v2.164.0
