@@ -1,6 +1,6 @@
 nginx
 n8nio/n8n
-postgrest/postgres:16
+postgrest/postgres:16.4
 nocobase/nocobase
 elestio/flowiseai
 supabase/studio:20241202-71e5240
