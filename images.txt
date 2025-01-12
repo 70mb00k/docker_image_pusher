@@ -1,6 +1,5 @@
 nginx
 n8nio/n8n
-postgrest/postgres:16.4
 nocobase/nocobase
 elestio/flowiseai
 supabase/studio:20241202-71e5240
@@ -16,6 +15,5 @@ supabase/logflare:1.4.0
 supabase/postgres:15.6.1.146
 timberio/vector:0.28.1-alpine
 supabase/supavisor:1.1.56
-
 
 
