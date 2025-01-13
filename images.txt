@@ -5,3 +5,103 @@ n8nio/n8n
 n8n/alist:latest
 #支持指定架构
 --platform=linux/arm64 n8n/alist
+
+
+
+nocobase/nocobase
+
+
+elestio/flowiseai
+flowiseai/alist:latest
+#支持指定架构
+--platform=linux/arm64 flowiseai/alist
+
+
+supabase/studio:20241202-71e5240
+studio/alist:latest
+#支持指定架构
+--platform=linux/arm64 studio/alist
+
+
+kong:2.8.1
+kong/alist:latest
+#支持指定架构
+--platform=linux/arm64 kong/alist
+
+
+supabase/gotrue:v2.164.0
+gotrue/alist:latest
+#支持指定架构
+--platform=linux/arm64 gotrue/alist
+
+
+postgrest/postgrest:v12.2.0
+postgrest/alist:latest
+#支持指定架构
+--platform=linux/arm64/v8 postgrest/alist
+
+supabase/realtime:v2.33.70
+realtime/alist:latest
+#支持指定架构
+--platform=linux/arm64 realtime/alist
+
+
+supabase/storage-api:v1.11.13
+realtime/alist:latest
+#支持指定架构
+--platform=linux/arm64 realtime/alist
+
+
+darthsim/imgproxy:v3.8.0
+imgproxy/alist:latest
+#支持指定架构
+--platform=linux/arm64 imgproxy/alist
+
+
+
+supabase/postgres-meta:v0.84.2
+postgres-meta/alist:latest
+#支持指定架构
+--platform=linux/arm64 postgres-meta/alist
+
+
+
+supabase/edge-runtime:v1.65.3
+edge-runtime/alist:latest
+#支持指定架构
+--platform=linux/arm64 edge-runtime/alist
+
+
+
+supabase/logflare:1.4.0
+logflare/alist:latest
+#支持指定架构
+--platform=linux/arm64 logflare/alist
+
+
+
+supabase/postgres:15.6.1.146
+postgres/alist:latest
+#支持指定架构
+--platform=linux/arm64 postgres/alist
+
+
+
+timberio/vector:0.28.1-alpine
+vector/alist:latest
+#支持指定架构
+--platform=linux/arm64 vector/alist
+
+
+
+supabase/supavisor:1.1.56
+supavisor/alist:latest
+#支持指定架构
+--platform=linux/arm64 supavisor/alist
+
+
+
+postgres:16.6
+postgres/alist:latest
+#支持指定架构
+--platform=linux/arm64 postgres/alist
