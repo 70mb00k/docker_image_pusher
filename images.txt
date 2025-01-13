@@ -47,9 +47,9 @@ realtime/alist:latest
 
 
 supabase/storage-api:v1.11.13
-realtime/alist:latest
+storage-api/alist:latest
 #支持指定架构
---platform=linux/arm64 realtime/alist
+--platform=linux/arm64 storage-api/alist
 
 
 darthsim/imgproxy:v3.8.0
