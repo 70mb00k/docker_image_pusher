@@ -1,107 +1,52 @@
 nginx
-
 n8nio/n8n
-#支持指定架构
-n8n/alist:latest
-#支持指定架构
---platform=linux/arm64 n8n/alist
-
-
+--platform=linux/arm64 n8nio/n8n
 
 nocobase/nocobase
-
-
 elestio/flowiseai
-flowiseai/alist:latest
-#支持指定架构
---platform=linux/arm64 flowiseai/alist
-
+--platform=linux/arm64 elestio/flowiseai
 
 supabase/studio:20241202-71e5240
-studio/alist:latest
-#支持指定架构
---platform=linux/arm64 studio/alist
+--platform=linux/arm64 supabase/studio:20241202-71e5240
 
-
-kong:2.8.1
-kong/alist:latest
-#支持指定架构
---platform=linux/arm64 kong/alist
-
+kong/kong:2.8.1
+--platform=arm64/v8 kong:2.8.1
 
 supabase/gotrue:v2.164.0
-gotrue/alist:latest
-#支持指定架构
---platform=linux/arm64 gotrue/alist
-
+--platform=linux/arm64 supabase/gotrue:v2.164.0
 
 postgrest/postgrest:v12.2.0
-postgrest/alist:latest
-#支持指定架构
---platform=linux/arm64/v8 postgrest/alist
+--platform=linux/arm64/v8 postgrest/postgrest:v12.2.0
 
 supabase/realtime:v2.33.70
-realtime/alist:latest
-#支持指定架构
---platform=linux/arm64 realtime/alist
-
+--platform=linux/arm64 supabase/realtime:v2.33.70
 
 supabase/storage-api:v1.11.13
-storage-api/alist:latest
-#支持指定架构
---platform=linux/arm64 storage-api/alist
-
-
+--platform=linux/arm64 supabase/storage-api:v1.11.13
 darthsim/imgproxy:v3.8.0
-imgproxy/alist:latest
-#支持指定架构
---platform=linux/arm64 imgproxy/alist
-
-
+--platform=linux/arm64 darthsim/imgproxy:v3.8.0
 
 supabase/postgres-meta:v0.84.2
-postgres-meta/alist:latest
-#支持指定架构
---platform=linux/arm64 postgres-meta/alist
-
-
+--platform=linux/arm64 supabase/postgres-meta:v0.84.2
 
 supabase/edge-runtime:v1.65.3
-edge-runtime/alist:latest
-#支持指定架构
---platform=linux/arm64 edge-runtime/alist
-
+--platform=linux/arm64 supabase/edge-runtime:v1.65.3
 
 
 supabase/logflare:1.4.0
-logflare/alist:latest
-#支持指定架构
---platform=linux/arm64 logflare/alist
-
-
+--platform=linux/arm64 supabase/logflare:1.4.0
 
 supabase/postgres:15.6.1.146
-postgres/alist:latest
-#支持指定架构
---platform=linux/arm64 postgres/alist
-
+--platform=linux/arm64 supabase/postgres:15.6.1.146
 
 
 timberio/vector:0.28.1-alpine
-vector/alist:latest
-#支持指定架构
---platform=linux/arm64 vector/alist
-
+--platform=linux/arm/v7 timberio/vector:0.28.1-alpine
 
 
 supabase/supavisor:1.1.56
-supavisor/alist:latest
-#支持指定架构
---platform=linux/arm64 supavisor/alist
+--platform=linux/arm64 ssupabase/supavisor:1.1.56
 
 
-
-postgres:16.6
-postgres/alist:latest
-#支持指定架构
---platform=linux/arm64 postgres/alist
+postgres/postgres:16.6
+--platform=linux/arm64 postgres/postgres:16.6
