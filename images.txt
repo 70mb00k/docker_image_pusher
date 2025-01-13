@@ -2,5 +2,6 @@ nginx
 
 n8nio/n8n
 #支持指定架构
---platform=linux/arm64 tombook
-
+n8n/alist:latest
+#支持指定架构
+--platform=linux/arm64 n8n/alist
