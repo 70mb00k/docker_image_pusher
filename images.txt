@@ -1,7 +1,7 @@
 nginx
 n8nio/n8n
---platform=linux/arm64
-nocobase/nocobase
+--platform=linux/arm64 
+nocobase/nocobase mac/n8n
 elestio/flowiseai
 supabase/studio:20241202-71e5240
 kong:2.8.1
