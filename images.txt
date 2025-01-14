@@ -46,7 +46,7 @@ timberio/vector:0.28.1-alpine
 
 
 supabase/supavisor:1.1.56
---platform=linux/arm64 ssupabase/supavisor:1.1.56
+--platform=linux/arm64 supabase/supavisor:1.1.56
 
 
 postgres/postgres:16.6
