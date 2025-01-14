@@ -10,8 +10,8 @@ supabase/studio:20241202-71e5240
 --platform=linux/arm64 supabase/studio:20241202-71e5240
 
 kong:2.8.1
-arm64v8/kong:3.9
-arm64v8/kong:2.8.3
+--platform=linux/arm64 arm64v8/kong:3.9
+--platform=linux/arm64 arm64v8/kong:2.8.3
 
 supabase/gotrue:v2.164.0
 --platform=linux/arm64 supabase/gotrue:v2.164.0
