@@ -1,3 +1,18 @@
+使用说明
+1.不能修改的内容
+命名空间（**ALIYUN_NAME_SPACE**）
+用户名（**ALIYUN_REGISTRY_USER**)
+密码（**ALIYUN_REGISTRY_PASSWORD**)
+仓库地址（**ALIYUN_REGISTRY**）<br>
+
+2.指定平台参数用法
+elestio/flowiseai
+--platform=linux/arm64 elestio/flowiseai
+会出现 2 个镜像
+镜像1：flowiseai
+镜像2：linux_arm64_flowiseai
+
+===============
 # Docker Images Pusher
 
 使用Github Action将国外的Docker镜像转存到阿里云私有仓库，供国内服务器使用，免费易用<br>
