@@ -1,16 +1,16 @@
 使用说明
-1.不能修改的内容
-命名空间（**ALIYUN_NAME_SPACE**）
-用户名（**ALIYUN_REGISTRY_USER**)
-密码（**ALIYUN_REGISTRY_PASSWORD**)
+1.不能修改的内容<br>
+命名空间（**ALIYUN_NAME_SPACE**）<br>
+用户名（**ALIYUN_REGISTRY_USER**)<br>
+密码（**ALIYUN_REGISTRY_PASSWORD**)<br>
 仓库地址（**ALIYUN_REGISTRY**）<br>
 
-2.指定平台参数用法
-elestio/flowiseai
---platform=linux/arm64 elestio/flowiseai
-会出现 2 个镜像
-镜像1：flowiseai
-镜像2：linux_arm64_flowiseai
+2.指定平台参数用法<br>
+elestio/flowiseai<br>
+--platform=linux/arm64 elestio/flowiseai<br>
+会出现 2 个镜像<br>
+镜像1：flowiseai<br>
+镜像2：linux_arm64_flowiseai<br>
 
 ===============
 # Docker Images Pusher
