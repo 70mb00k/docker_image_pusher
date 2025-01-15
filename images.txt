@@ -19,6 +19,9 @@ supabase/gotrue:v2.164.0
 postgrest/postgrest:v12.2.0
 --platform=linux/arm64/v8 postgrest/postgrest:v12.2.0
 
+postgrest/postgrest:v16.6
+--platform=linux/arm64/v8 postgrest/postgrest:v16.6
+
 supabase/realtime:v2.33.70
 --platform=linux/arm64 supabase/realtime:v2.33.70
 
