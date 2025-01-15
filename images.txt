@@ -50,4 +50,4 @@ supabase/supavisor:1.1.56
 
 
 postgres/postgres:16.6
---platform=linux/arm64 postgres/postgres:16.6
+--platform=linux/arm64/v8 postgres/postgres:16.6
