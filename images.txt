@@ -13,8 +13,8 @@ kong:2.8.1
 --platform=linux/arm64 arm64v8/kong:3.9
 --platform=linux/arm64 arm64v8/kong:2.8.3
 
-ghcr.io/open-webui/open-webui
---platform=linux/arm64 open-webui
+dyrnq/open-webui
+--platform=linux/arm64 dyrnq/open-webui
 
 qdrant/qdrant
 --platform=linux/arm64 qdrant/qdrant
