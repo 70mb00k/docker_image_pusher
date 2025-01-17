@@ -16,6 +16,11 @@ kong:2.8.1
 dyrnq/open-webui
 --platform=linux/arm64 dyrnq/open-webui
 
+portainer/portainer-ce
+--platform=linux/arm/v7 portainer/portainer-ce
+
+
+
 qdrant/qdrant
 --platform=linux/arm64 qdrant/qdrant
 
