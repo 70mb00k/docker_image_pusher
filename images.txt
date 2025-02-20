@@ -17,8 +17,8 @@ projectdiscovery/nuclei
 
 
 nocobase/nocobase
-elestio/flowiseai
---platform=linux/arm64 elestio/flowiseai
+flowiseai/flowise
+--platform=linux/arm64 flowiseai/flowise
 
 supabase/studio:20241202-71e5240
 --platform=linux/arm64 supabase/studio:20241202-71e5240
