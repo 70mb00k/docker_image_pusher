@@ -81,5 +81,5 @@ supabase/supavisor:1.1.56
 --platform=linux/arm64 supabase/supavisor:1.1.56
 
 
-postgres:16.6
---platform=linux/arm64/v8 postgres:16.6
+postgres:16.7
+--platform=linux/arm64/v8 postgres:16.7
