@@ -2,8 +2,6 @@ nginx
 n8nio/n8n
 --platform=linux/arm64 n8nio/n8n
 
-
-
 securecodebox/parser-nikto
 --platform=linux/arm64 securecodebox/parser-nikto
 
