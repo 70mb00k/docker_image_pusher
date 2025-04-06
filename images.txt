@@ -5,6 +5,8 @@ n8nio/n8n
 securecodebox/parser-nikto
 --platform=linux/arm64 securecodebox/parser-nikto
 
+infiniflow/ragflow:nightly-slim
+
 
 securecodebox/parser-nmap
 --platform=linux/arm64 securecodebox/parser-nmap
