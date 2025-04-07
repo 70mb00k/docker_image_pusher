@@ -6,7 +6,7 @@ securecodebox/parser-nikto
 --platform=linux/arm64 securecodebox/parser-nikto
 
 infiniflow/ragflow:nightly-slim
-
+infiniflow/ragflow:nightly
 
 securecodebox/parser-nmap
 --platform=linux/arm64 securecodebox/parser-nmap
