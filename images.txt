@@ -1,5 +1,10 @@
 nginx
 
+elestio/redis:latest
+--platform=linux/arm64 elestio/redis:latest
+
+
+
 
 n8nio/n8n:latest
 --platform=linux/arm64 n8nio/n8n:latest
