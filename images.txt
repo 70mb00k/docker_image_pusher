@@ -6,6 +6,14 @@ elestio/redis:latest
 influxdb:3.2.1-core
 --platform=linux/arm64/v8 influxdb:3.2.1-core
 
+telegraf:latest
+--platform=linux/arm64/v8 telegraf:latest
+
+
+
+chronograf
+--platform=linux/arm64/v8  chronograf:latest
+
 
 n8nio/n8n:latest
 --platform=linux/arm64 n8nio/n8n:latest
