@@ -3,8 +3,8 @@ nginx
 elestio/redis:latest
 --platform=linux/arm64 elestio/redis:latest
 
-influxdb/influxdb:3.2.1-core
---platform=linux/arm64 influxdb:3.2.1-core
+influxdb:3.2.1-core
+--platform=linux/arm64/v8 influxdb:3.2.1-core
 
 
 n8nio/n8n:latest
